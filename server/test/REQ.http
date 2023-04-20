@@ -1,0 +1,4 @@
+GET http://localhost:5555/api/database
+
+### Get by ID
+GET http://localhost:5555/api/database/1
